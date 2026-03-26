@@ -8,17 +8,21 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                       ABOUT ME                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp;About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" />
+</div>
+
+<br/>
 
 ```python
 class VirajAlmeida:
@@ -27,6 +31,7 @@ class VirajAlmeida:
         self.name        = "Viraj Almeida"
         self.role        = "Data Engineer"
         self.location    = "New Jersey, United States 📍"
+        self.bio         = "Building lakehouse pipelines on Azure & Databricks. Bronze → Silver → Gold."
         self.focus       = [
             "Lakehouse Architecture",
             "Real-time Data Pipelines",
@@ -48,7 +53,7 @@ me = VirajAlmeida()
 me.say_hi()
 ```
 
-<br clear="right"/>
+<br/>
 
 > 💡 I design and build **end-to-end data pipelines** that bridge raw operational data and high-quality analytical assets. My work spans ingestion, transformation, orchestration, and serving — with a strong emphasis on **data quality**, **reliability**, and **cost-efficiency** on cloud lakehouse platforms.
 
@@ -71,11 +76,15 @@ me.say_hi()
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+<br/>
+
 ### 〔 Big Data · Streaming · DB 〕
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+
+<br/>
 
 ### 〔 Cloud & Platforms 〕
 
@@ -85,11 +94,12 @@ me.say_hi()
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![ADLS Gen2](https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Blob](https://img.shields.io/badge/Blob%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<br/>
 
 ### 〔 Data Engineering 〕
 
@@ -99,12 +109,16 @@ me.say_hi()
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
+<br/>
+
 ### 〔 DevOps & Collaboration 〕
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%20%2F%20CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+<br/>
 
 ### 〔 Databases & Visualization 〕
 
@@ -129,13 +143,11 @@ me.say_hi()
 
 ### 🏨 &nbsp;`databricks-lakehouse-hotel`
 
+**A production-grade lakehouse pipeline** built on Databricks, processing hotel operations data across the full medallion architecture — from raw CDC events to curated, business-ready analytics.
+
 </div>
 
-<table>
-<tr>
-<td width="55%">
-
-**A production-grade lakehouse pipeline** built on Databricks, processing hotel operations data across the full medallion architecture — from raw CDC events to curated, business-ready analytics.
+<br/>
 
 **⚙️ What it does:**
 - 📥 Ingests booking, reservation, revenue & guest data from multiple source systems
@@ -150,8 +162,9 @@ me.say_hi()
 - Delta Lake time-travel for full pipeline auditability
 - Reusable parameterized transformation modules
 
-</td>
-<td width="45%" align="center">
+<br/>
+
+<div align="center">
 
 ```
          ╔══════════════════╗
@@ -183,11 +196,7 @@ me.say_hi()
     ╚═════════════════════════╝
 ```
 
-</td>
-</tr>
-</table>
-
-<div align="center">
+<br/>
 
 **Key Tech &nbsp;→&nbsp;**
 `Databricks` &nbsp;`Apache Spark` &nbsp;`Delta Lake` &nbsp;`PySpark` &nbsp;`ADF` &nbsp;`SQL` &nbsp;`Python` &nbsp;`SCD Type 2`
@@ -210,8 +219,9 @@ me.say_hi()
 
 <div align="center">
 
-| 🔁 Idempotency First | 🥇 Medallion by Default | 📏 Schema as Contract | 🔍 Observability Built In |
+| 🔁 | 🥇 | 📏 | 🔍 |
 |:---:|:---:|:---:|:---:|
+| **Idempotency First** | **Medallion by Default** | **Schema as Contract** | **Observability Built In** |
 | Every pipeline runs safely. No retry surprises. | Bronze → Silver → Gold. Clean separation of concerns, always. | Data contracts and schema evolution are engineering, not afterthoughts. | If I can't measure pipeline health, I haven't finished the job. |
 
 </div>
@@ -219,10 +229,6 @@ me.say_hi()
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB SNAKE                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                     CONNECT                               -->
