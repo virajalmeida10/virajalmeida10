@@ -37,7 +37,7 @@ class VirajAlmeida:
             "Real-time Data Pipelines",
             "Cloud Data Platforms"
         ]
-        self.currently   = "Hotel data lakehouse on Databricks"
+        self.currently   = "Data lakehouse on Databricks"
         self.learning    = [
             "Delta Live Tables",
             "Apache Iceberg",
