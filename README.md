@@ -4,14 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=140&section=header&text=&fontSize=0&animation=fadeIn" />
 
 <!-- DYNAMIC TYPING INTRO -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=4FC3F7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+%5BYour+Viraj Almeida%5D+%F0%9F%91%8B;Data+Engineer+%7C+Lakehouse+Architect;Building+pipelines+that+scale+to+millions;Turning+raw+data+into+business+clarity)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- PROFILE VIEWS + FOLLOWERS -->
-![Profile Views](https://komarev.com/ghpvc/?username=virajalmeida10&style=flat-square&color=4FC3F7&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/virajalmeida10?style=flat-square&color=4FC3F7&labelColor=1a1a2e)](https://github.com/virajalmeida10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=4FC3F7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Viraj+Almeida+%F0%9F%91%8B;Data+Engineer+%7C+Lakehouse+Architect;Building+pipelines+that+scale+to+millions;Turning+raw+data+into+business+clarity)](https://readme-typing-svg.demolab.com)
 
 </div>
 
@@ -23,7 +16,7 @@
 engineer = {
     "name"        : "Viraj Almeida",
     "role"        : "Data Engineer",
-    "location"    : "New Jersey, United States",
+    "location"    : "Your City, Country",
     "focus"       : ["Lakehouse Architecture", "Real-time Pipelines", "Cloud Data Platforms"],
     "currently"   : "Building end-to-end hotel data pipelines on Databricks",
     "learning"    : ["Delta Live Tables", "Apache Iceberg", "dbt Advanced Patterns"],
@@ -89,7 +82,7 @@ A **production-grade lakehouse pipeline** built on Databricks, processing hotel 
 
 **Key Tech:** `Databricks` `Apache Spark` `Delta Lake` `PySpark` `SQL` `Azure Data Factory` `Python`
 
-[![View Repo](https://img.shields.io/badge/View_Repository-4FC3F7?style=for-the-badge&logo=github&logoColor=black)](https://github.com/YOUR_USERNAME/databricks-lakehouse-hotel)
+[![View Repo](https://img.shields.io/badge/View_Repository-4FC3F7?style=for-the-badge&logo=github&logoColor=black)](https://github.com/virajalmeida10/databricks-lakehouse-hotel)
 
 ---
 
@@ -147,22 +140,6 @@ A **production-grade lakehouse pipeline** built on Databricks, processing hotel 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9&count_private=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9&langs_count=6" />
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🧠 Engineering Philosophy
 
 <table>
@@ -170,7 +147,7 @@ A **production-grade lakehouse pipeline** built on Databricks, processing hotel 
 <td align="center" width="25%">
 
 **🔁 Idempotency First**
-<br/>Every pipeline I build runs safely on retry. No surprises.
+<br/>Every pipeline I build runs safely. No retry surprises.
 
 </td>
 <td align="center" width="25%">
@@ -200,9 +177,10 @@ A **production-grade lakehouse pipeline** built on Databricks, processing hotel 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viraj-almeida/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4FC3F7?style=for-the-badge&logo=vercel&logoColor=black)](https://viraj-almeida-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/virajalmeida10)
 [![Resume](https://img.shields.io/badge/Resume-4FC3F7?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](https://YOUR_RESUME_LINK)
 
 </div>
