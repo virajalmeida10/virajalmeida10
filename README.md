@@ -4,7 +4,7 @@
 <!--                      HEADER BANNER                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Viraj%20Almeida&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Engineer%20%7C%20Lakehouse%20Architect%20%7C%20Cloud%20Data%20Platforms&descAlignY=58&descSize=18&animation=fadeIn&stroke=00D4FF&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,40:0d1f3c,70:0a3d6b,100:00b4d8&height=200&section=header&text=Viraj%20Almeida&fontSize=60&fontColor=00D4FF&fontAlignY=38&desc=Data%20Engineer%20%7C%20Lakehouse%20Architect%20%7C%20Cloud%20Data%20Platforms&descAlignY=58&descSize=18&animation=fadeIn&fontAlign=50" />
 
 </div>
 
@@ -24,34 +24,38 @@
 
 <br/>
 
-```python
-class VirajAlmeida:
+<div align="center">
 
-    def __init__(self):
-        self.name        = "Viraj Almeida"
-        self.role        = "Data Engineer"
-        self.location    = "New Jersey, United States 📍"
-        self.bio         = "Building lakehouse pipelines on Azure & Databricks. Bronze → Silver → Gold."
-        self.focus       = [
-            "Lakehouse Architecture",
-            "Real-time Data Pipelines",
-            "Cloud Data Platforms"
-        ]
-        self.currently   = "Data lakehouse on Databricks"
-        self.learning    = [
-            "Delta Live Tables",
-            "Apache Iceberg",
-            "dbt Advanced Patterns"
-        ]
-        self.open_to     = "Exciting data engineering challenges"
-        self.fun_fact    = "I think in medallion — Bronze, Silver, Gold 🏆"
+### 👋 &nbsp;Hey, I'm Viraj Almeida
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something great.")
+**Data Engineer &nbsp;·&nbsp; Lakehouse Architect &nbsp;·&nbsp; Cloud Data Platforms**
 
-me = VirajAlmeida()
-me.say_hi()
+📍 New Jersey, United States
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ```
+╔══════════════════════════════════════════════════════════════╗
+║                    VIRAJ  ALMEIDA                            ║
+║                    Data Engineer                             ║
+╠══════════════╦═══════════════════════╦═══════════════════════╣
+║  🏗️ BUILDING  ║  🔭 EXPLORING         ║  🎯 FOCUS             ║
+╠══════════════╬═══════════════════════╬═══════════════════════╣
+║  Hotel Data  ║  Delta Live Tables    ║  Lakehouse            ║
+║  Lakehouse   ║  Apache Iceberg       ║  Architecture         ║
+║  Databricks  ║  dbt Advanced         ║  Real-time Pipelines  ║
+║              ║  Patterns             ║  Cloud Platforms      ║
+╠══════════════╩═══════════════════════╩═══════════════════════╣
+║  🤝 OPEN TO  :  Exciting Data Engineering Challenges         ║
+║  🏆 FUN FACT :  I think in medallion — Bronze, Silver, Gold  ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <br/>
 
@@ -250,7 +254,7 @@ me.say_hi()
 </div>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,30:0a3d6b,60:0d1f3c,100:0a0e1a&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=00D4FF&fontAlignY=65&animation=fadeIn" />
 
 <div align="center">
 
